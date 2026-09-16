@@ -28,33 +28,26 @@ I am a seasoned **Senior Engineering Lead** with 13+ years of experience deliver
 
 ## 📂 Featured Projects  
 
-- **SkyPort Platform(Clear-Com Enterprise)** – Multi-tenant architecture with Next.js + NestJS; minimized bundle sizes and enforced accessibility compliance. 
+- **SkyPort Platform (Clear-Com Enterprise)** – Multi-tenant architecture with Next.js + NestJS; minimized bundle sizes and enforced accessibility compliance.  
+  - **Role**: Senior Engineering Lead | Team size: 10 engineers  
+  - **SkyPort Frontend** – Built a React.js (Next.js) cloud administration portal for Gen-IC Virtual Intercom subscriptions, devices, and workspaces.  
+    - Implemented Firebase Auth (Email/Password + OAuth).  
+    - Designed subscription purchase, upgrade, and renewal flows with Stripe + Avalara tax.  
+    - Extended platform from B2B partner-only to B2C model.  
+    - Developed responsive dashboards, workspace creation, and RBAC role management.  
+    - Integrated Microsoft Dynamics 365 CRM for lead capture.  
+    - Delivered account management (logo upload, billing info, renewals) with Stripe billing portal.  
+    - Enhanced UI/UX with responsive layouts, verified partner badges, and mobile/tablet support.  
+  - **SkyPort API** – Architected a NestJS multi-tenant SaaS backend powering subscriptions, workspaces, and device management. Integrated Stripe payments, Avalara tax, and Azure B2C authentication. Championed CASL-based ABAC authorization and enforced WCAG accessibility across endpoints.  
+  - **SkyPort Cloud Functions** – Designed Firebase Cloud Functions for background jobs and workflows (invoice reminders, AX price/license sync, Wibu hardware licensing, archival, version updates). Implemented secure JWT authentication, GCP Secret Manager integration, and Mailgun notifications.  
+  - **VIC Manager** – Led development of a Node.js/TypeScript microservice orchestrating Docker-based GenIC instances on GCP. Built elasticity and scaling logic with leader/child node roles, JSON-based registries, and Datadog observability. Delivered workflows for instance creation, stop/delete, and upgrades with automated queue management.  
+  - **Performance, Governance & Delivery**:  
+    - **Performance & Governance**: Reduced bundle sizes, optimized rendering pipelines, and enforced strict pull-request guardrails with Jest + CI/CD pipelines.  
+    - **Accessibility & Compliance**: Ensured WCAG compliance across UI and API layers, validated with AXE/NVDA tools.  
+    - **Agile Delivery**: Directed predictable sprint outcomes under SAFe Agile, balancing resource allocation and mentoring developers for skill progression.  
 
-***Role***: Senior Engineering Lead | Team size: 10 engineers  
-
-- ***SkyPort Frontend*** – Built a React.js (Next.js) cloud administration portal for Gen-IC Virtual Intercom subscriptions, devices, and workspaces.  
-  - Implemented Firebase Auth (Email/Password + OAuth).  
-  - Designed subscription purchase, upgrade, and renewal flows with Stripe + Avalara tax.  
-  - Extended platform from B2B partner-only to B2C model.  
-  - Developed responsive dashboards, workspace creation, and RBAC role management.  
-  - Integrated Microsoft Dynamics 365 CRM for lead capture.  
-  - Delivered account management (logo upload, billing info, renewals) with Stripe billing portal.  
-  - Enhanced UI/UX with responsive layouts, verified partner badges, and mobile/tablet support.  
-
-- ***SkyPort API*** – Architected a NestJS multi-tenant SaaS backend powering subscriptions, workspaces, and device management. Integrated Stripe payments, Avalara tax, and Azure B2C authentication. Championed CASL-based ABAC authorization and enforced WCAG accessibility across endpoints.  
-
-- ***SkyPort Cloud Functions*** – Designed Firebase Cloud Functions for background jobs and workflows (invoice reminders, AX price/license sync, Wibu hardware licensing, archival, version updates). Implemented secure JWT authentication, GCP Secret Manager integration, and Mailgun notifications.  
-
-- ***VIC Manager*** – Led development of a Node.js/TypeScript microservice orchestrating Docker-based GenIC instances on GCP. Built elasticity and scaling logic with leader/child node roles, JSON-based registries, and Datadog observability. Delivered workflows for instance creation, stop/delete, and upgrades with automated queue management.  
-
-- ***Performance & Governance*** – Reduced bundle sizes, optimized rendering pipelines, and enforced strict pull-request guardrails with Jest + CI/CD pipelines.  
-
-- ***Accessibility & Compliance*** – Ensured WCAG compliance across UI and API layers, validated with AXE/NVDA tools.  
-
-- ***Agile Delivery*** – Directed predictable sprint outcomes under SAFe Agile, balancing resource allocation and mentoring developers for skill progression.  
- 
 - **Healthcare Portals (BD & Mars Voyager)** – Secure, cloud-integrated systems with Angular + Azure; ensured zero-fault data ingestion pipelines.  
-- **Broctagon Fintech Dashboards*** – Real-time trading interfaces using Angular + Node.js; integrated **Stripe & Razorpay** for secure transactions.  
+- **Broctagon Fintech Dashboards** – Real-time trading interfaces using Angular + Node.js; integrated **Stripe & Razorpay** for secure transactions.  
 - **Abbott Theme Builder** – Reusable enterprise theme managers with ReactJS + TypeScript; enforced WCAG compliance.  
 - **IndiaMART Mobile App** – Hybrid mobile modules using AngularJS + Ionic; scaled for massive B2B traffic with **PhonePe & PayPal** integrations.  
 
