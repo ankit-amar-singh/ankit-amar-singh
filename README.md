@@ -45,6 +45,6 @@ I am a seasoned **Senior Engineering Lead** with 13+ years of experience deliver
 ---
 
 ## 📫 Connect  
-- **LinkedIn**: [linkedin.com/in/ankit-kumar](https://linkedin.com/in/ankit-kumar)  
+- **LinkedIn**: [linkedin.com/in/ankit-kumar-357b5542](https://www.linkedin.com/in/ankit-kumar-357b5542/)  
 - **Portfolio**: GitHub Pages (coming soon)  
 - **Email**: singh.arpan959@gmail.com  
