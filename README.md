@@ -14,6 +14,30 @@ I am a seasoned **Senior Engineering Lead** with 13+ years of experience deliver
 
 ---
 
+## 🚀 Engineering Demonstrations
+
+### 1. 🏢 [Multi-Tenant SaaS Demo](https://github.com/ankit-amar-singh/multi-tenant-saas-demo)
+> **Stack**: Next.js 14 (App Router), TypeScript, NestJS, PostgreSQL, Prisma, Docker, GitHub Actions  
+Enterprise-grade multi-tenant platform with workspace isolation, CASL-based RBAC (Owner/Admin/Member), JWT authentication, usage metrics dashboard, REST API, and full Docker orchestration.  
+- 📖 **Architecture Docs & ADRs**: [docs/architecture.md](file:///home/empkhets0/Documents/Ankit/multi-tenant-saas-demo/docs/architecture.md)
+
+### 2. ♿ [Accessible React Design System](https://github.com/ankit-amar-singh/accessible-react-design-system)
+> **Stack**: React 18, TypeScript, axe-core, Vitest, Testing Library, Tailwind CSS  
+WCAG 2.1 AA compliant component library featuring keyboard focus trap management, listbox arrow navigation, dark mode tokens, and automated `axe-core` accessibility assertions.  
+- 📖 **Design System & A11y Specs**: [accessible-react-design-system/README.md](file:///home/empkhets0/Documents/Ankit/accessible-react-design-system/README.md)
+
+### 3. ⚡ [Real-Time Operations Dashboard](https://github.com/ankit-amar-singh/real-time-operations-dashboard)
+> **Stack**: React 18, WebSockets, Recharts, TypeScript, Vitest  
+High-frequency telemetry dashboard rendering real-time device metrics with automatic reconnection logic (exponential backoff), virtualized log feeds, dynamic filtering, and resilient state management.  
+- 📖 **Telemetry & Architecture Specs**: [real-time-operations-dashboard/README.md](file:///home/empkhets0/Documents/Ankit/real-time-operations-dashboard/README.md)
+
+### 4. 🧪 [Frontend Performance Lab](https://github.com/ankit-amar-singh/frontend-performance-lab)
+> **Stack**: React 18, Web Workers, TanStack Virtual, TypeScript, Vitest  
+Interactive lab demonstrating Core Web Vitals optimization strategies: 5,000+ item list virtualization, off-main-thread Web Worker computation, dynamic code splitting with `React.lazy`, and 0-CLS image loading.  
+- 📖 **Performance Benchmarks & Specs**: [frontend-performance-lab/README.md](file:///home/empkhets0/Documents/Ankit/frontend-performance-lab/README.md)
+
+---
+
 ## 🛠️ Tech Stack  
 
 **Frontend Ecosystem**: React, Next.js, Angular (2–16), TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS, Tailwind, Bootstrap, Material UI  
@@ -31,37 +55,22 @@ I am a seasoned **Senior Engineering Lead** with 13+ years of experience deliver
 - **SkyPort Platform (Clear-Com Enterprise)** – Multi-tenant architecture with Next.js + NestJS; minimized bundle sizes and enforced accessibility compliance.  
   - **Role**: Senior Engineering Lead | Team size: 10 engineers  
   - **SkyPort Frontend** – Built a React.js (Next.js) cloud administration portal for Gen-IC Virtual Intercom subscriptions, devices, and workspaces.  
-    - Implemented Firebase Auth (Email/Password + OAuth).  
-    - Designed subscription purchase, upgrade, and renewal flows with Stripe + Avalara tax.  
-    - Extended platform from B2B partner-only to B2C model.  
-    - Developed responsive dashboards, workspace creation, and RBAC role management.  
-    - Integrated Microsoft Dynamics 365 CRM for lead capture.  
-    - Delivered account management (logo upload, billing info, renewals) with Stripe billing portal.  
-    - Enhanced UI/UX with responsive layouts, verified partner badges, and mobile/tablet support.  
-  - **SkyPort API** – Architected a NestJS multi-tenant SaaS backend powering subscriptions, workspaces, and device management. Integrated Stripe payments, Avalara tax, and Azure B2C authentication. Championed CASL-based ABAC authorization and enforced WCAG accessibility across endpoints.  
-  - **SkyPort Cloud Functions** – Designed Firebase Cloud Functions for background jobs and workflows (invoice reminders, AX price/license sync, Wibu hardware licensing, archival, version updates). Implemented secure JWT authentication, GCP Secret Manager integration, and Mailgun notifications.  
-  - **VIC Manager** – Led development of a Node.js/TypeScript microservice orchestrating Docker-based GenIC instances on GCP. Built elasticity and scaling logic with leader/child node roles, JSON-based registries, and Datadog observability. Delivered workflows for instance creation, stop/delete, and upgrades with automated queue management.  
-  - **Performance, Governance & Delivery**:  
-    - **Performance & Governance**: Reduced bundle sizes, optimized rendering pipelines, and enforced strict pull-request guardrails with Jest + CI/CD pipelines.  
-    - **Accessibility & Compliance**: Ensured WCAG compliance across UI and API layers, validated with AXE/NVDA tools.  
-    - **Agile Delivery**: Directed predictable sprint outcomes under SAFe Agile, balancing resource allocation and mentoring developers for skill progression.  
+  - **SkyPort API** – Architected a NestJS multi-tenant SaaS backend powering subscriptions, workspaces, and device management.  
+  - **SkyPort Cloud Functions** – Designed Firebase Cloud Functions for background jobs and workflows.  
+  - **VIC Manager** – Led development of a Node.js/TypeScript microservice orchestrating Docker-based GenIC instances on GCP.  
 
 - **Healthcare Portals (BD & Mars Voyager)** – Secure, cloud-integrated systems with Angular + Azure; ensured zero-fault data ingestion pipelines.  
 - **Broctagon Fintech Dashboards** – Real-time trading interfaces using Angular + Node.js; integrated **Stripe & Razorpay** for secure transactions.  
 - **Abbott Theme Builder** – Reusable enterprise theme managers with ReactJS + TypeScript; enforced WCAG compliance.  
-- **IndiaMART Mobile App** – Hybrid mobile modules using AngularJS + Ionic; scaled for massive B2B traffic with **PhonePe & PayPal** integrations.  
 
 ---
 
 ## 🎓 Education & Credentials  
 - **B.Tech (Computer Science)** – MIET Meerut, UP Technical University  
 - **PGDM (International Business)** – NMIMS, 2018  
-- **Certifications**: Agile Scrum Fundamentals, Assertive Communication Masterclass  
-- **Achievements**: GATE 2012 (94.88 percentile), Technical Event Distinctions in Robotics & Programming  
 
 ---
 
 ## 📫 Connect  
 - **LinkedIn**: [linkedin.com/in/ankit-kumar-357b5542](https://www.linkedin.com/in/ankit-kumar-357b5542/)  
-- **Portfolio**: GitHub Pages (coming soon)  
 - **Email**: singh.arpan959@gmail.com  
