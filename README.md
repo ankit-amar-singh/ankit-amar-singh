@@ -19,22 +19,38 @@ I am a seasoned **Senior Engineering Lead** with 13+ years of experience deliver
 ### 1. 🏢 [Multi-Tenant SaaS Demo](https://github.com/ankit-amar-singh/multi-tenant-saas-demo)
 > **Stack**: Next.js 14 (App Router), TypeScript, NestJS, PostgreSQL, Prisma, Docker, GitHub Actions  
 Enterprise-grade multi-tenant platform with workspace isolation, CASL-based RBAC (Owner/Admin/Member), JWT authentication, usage metrics dashboard, REST API, and full Docker orchestration.  
-- 📖 **Architecture Docs & ADRs**: [docs/architecture.md](file:///home/empkhets0/Documents/Ankit/multi-tenant-saas-demo/docs/architecture.md)
+- 📖 **Architecture Docs & ADRs**: [docs/architecture.md](https://github.com/ankit-amar-singh/multi-tenant-saas-demo/tree/main/docs)
 
 ### 2. ♿ [Accessible React Design System](https://github.com/ankit-amar-singh/accessible-react-design-system)
-> **Stack**: React 18, TypeScript, axe-core, Vitest, Testing Library, Tailwind CSS  
+> **Stack**: React 18, TypeScript, axe-core, Vitest, Testing Library, Tailwind CSS, Storybook  
 WCAG 2.1 AA compliant component library featuring keyboard focus trap management, listbox arrow navigation, dark mode tokens, and automated `axe-core` accessibility assertions.  
-- 📖 **Design System & A11y Specs**: [accessible-react-design-system/README.md](file:///home/empkhets0/Documents/Ankit/accessible-react-design-system/README.md)
+- 📖 **Design System & A11y Specs**: [Design System Docs](https://github.com/ankit-amar-singh/accessible-react-design-system#readme)
 
 ### 3. ⚡ [Real-Time Operations Dashboard](https://github.com/ankit-amar-singh/real-time-operations-dashboard)
 > **Stack**: React 18, WebSockets, Recharts, TypeScript, Vitest  
 High-frequency telemetry dashboard rendering real-time device metrics with automatic reconnection logic (exponential backoff), virtualized log feeds, dynamic filtering, and resilient state management.  
-- 📖 **Telemetry & Architecture Specs**: [real-time-operations-dashboard/README.md](file:///home/empkhets0/Documents/Ankit/real-time-operations-dashboard/README.md)
+- 📖 **Telemetry & Architecture Specs**: [Dashboard Specs](https://github.com/ankit-amar-singh/real-time-operations-dashboard#readme)
 
 ### 4. 🧪 [Frontend Performance Lab](https://github.com/ankit-amar-singh/frontend-performance-lab)
 > **Stack**: React 18, Web Workers, TanStack Virtual, TypeScript, Vitest  
 Interactive lab demonstrating Core Web Vitals optimization strategies: 5,000+ item list virtualization, off-main-thread Web Worker computation, dynamic code splitting with `React.lazy`, and 0-CLS image loading.  
-- 📖 **Performance Benchmarks & Specs**: [frontend-performance-lab/README.md](file:///home/empkhets0/Documents/Ankit/frontend-performance-lab/README.md)
+- 📖 **Performance Benchmarks & Specs**: [Performance Lab Specs](https://github.com/ankit-amar-singh/frontend-performance-lab#readme)
+
+---
+
+## 📚 Enterprise Architecture & Leadership Handbooks
+
+### 1. 🏛️ [Software Architecture Handbook](https://github.com/ankit-amar-singh/software-architecture-handbook)
+> **Stack**: Markdown, Vitest, TypeScript  
+Comprehensive 31-chapter reference guide covering fundamental design principles (SOLID, DRY, KISS, YAGNI), architectural paradigms (Monolith vs. Microservices, Event-Driven, CQRS, Serverless), 20+ Gang of Four design patterns with executable TypeScript test suites, and real-world system design case studies.
+
+### 2. 👥 [Engineering Leadership Playbook](https://github.com/ankit-amar-singh/engineering-leadership-playbook)
+> **Stack**: Markdown, MarkdownLint  
+17-chapter executive playbook detailing engineering team management, psychological safety, blameless postmortems, DORA & SPACE engineering metrics, agile delivery frameworks, RFC governance, hiring rubrics, and engineering career matrices.
+
+### 3. 🎯 [Enterprise Project Management Handbook & Practice Hub](https://github.com/ankit-amar-singh/project-management-handbook)
+> **Stack**: Next.js 16 (App Router), React 19, Recharts, Lucide, Tailwind CSS  
+Interactive web portal and enterprise project management handbook delivering frameworks for SAFe/Scrum execution, capacity planning, risk scoring matrices, sprint velocity calculators, and project governance templates.
 
 ---
 
